@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Asset Generator",
+  "description": "An AI-powered tool to create stunning YouTube logos, channel banners, and song thumbnails instantly. Provide a few details, and let Gemini generate the perfect visuals for your channel.",
+  "requestFramePermissions": []
+}
